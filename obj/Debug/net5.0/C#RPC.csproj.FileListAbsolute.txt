@@ -1,0 +1,15 @@
+/Users/wyatt/source/codeworks/C#RPC/bin/Debug/net5.0/C#RPC.deps.json
+/Users/wyatt/source/codeworks/C#RPC/bin/Debug/net5.0/C#RPC.runtimeconfig.json
+/Users/wyatt/source/codeworks/C#RPC/bin/Debug/net5.0/C#RPC.runtimeconfig.dev.json
+/Users/wyatt/source/codeworks/C#RPC/bin/Debug/net5.0/C#RPC.dll
+/Users/wyatt/source/codeworks/C#RPC/bin/Debug/net5.0/ref/C#RPC.dll
+/Users/wyatt/source/codeworks/C#RPC/bin/Debug/net5.0/C#RPC.pdb
+/Users/wyatt/source/codeworks/C#RPC/obj/Debug/net5.0/C#RPC.csproj.AssemblyReference.cache
+/Users/wyatt/source/codeworks/C#RPC/obj/Debug/net5.0/C#RPC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wyatt/source/codeworks/C#RPC/obj/Debug/net5.0/C#RPC.AssemblyInfoInputs.cache
+/Users/wyatt/source/codeworks/C#RPC/obj/Debug/net5.0/C#RPC.AssemblyInfo.cs
+/Users/wyatt/source/codeworks/C#RPC/obj/Debug/net5.0/C#RPC.csproj.CoreCompileInputs.cache
+/Users/wyatt/source/codeworks/C#RPC/obj/Debug/net5.0/C#RPC.dll
+/Users/wyatt/source/codeworks/C#RPC/obj/Debug/net5.0/ref/C#RPC.dll
+/Users/wyatt/source/codeworks/C#RPC/obj/Debug/net5.0/C#RPC.pdb
+/Users/wyatt/source/codeworks/C#RPC/obj/Debug/net5.0/C#RPC.genruntimeconfig.cache
